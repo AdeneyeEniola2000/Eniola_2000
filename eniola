@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html> 
+
+
+<head> 
+	<title>Adeneye Eniola Janet Cv</title>
+</head>
+<body>
+	<img src="img/eni.JPG" width="150px" height="200px" align="right">
+	<h1><center>ADENEYE ENIOLA JANET</center></h1>
+	<p align="center" >Address: 6,Olatunde Adegbesan street, ketu, Alapere, Lagos. <br>Tel: 08177011584, 08026991745 <br>Email: Adeneyejanet@gmail.com</p>
+	
+  <table>
+
+	 <tr>
+	 	<td width="300px">
+	 </tr>
+	 <tr>
+	 	<td>Date of Birth:</td>
+	 	<td>November 15th, 2000<tr>
+	 </tr>
+	 <tr>
+	 	<td>Place of Birth:</td>
+	 	<td>Lagos</td>
+	</tr>
+	<tr>
+		<td>State of Origin:</td>
+		<td>Ogun State</td>
+	</tr>
+	<tr>
+		<td>Religion:</td>
+		<td>Christian</td>
+	</tr>
+	<tr>
+		<td>Nationality:</td>
+		<td>Nigerian</td>
+	</tr>
+	<tr>
+		<td>Spoken Language:</td>
+		<td>English and Yoruba</td>
+	</tr>
+</table>
+		<h3><strong><u>PROFILE</u></strong></h3>
+		<p>An individual offering versatile office management skills and proficiency in Microsoft Office programs and other Microsoft packages for management efficiency. Strong planner and problem solver who readily adapts to change, works independently and exceeds expectations. Able to meet tight deadlines without compromising quality.</p>
+		<h3><strong><u>EDUCATIONAL BACKGROUND</u></strong></h3>
+
+		<p>Tertiary Education: </p>
+		<table>
+			<tr>
+				<td>Institution</td>
+				<td>Degree</td>
+				<td>Date of Completion</td>
+			</tr>
+			<tr>
+				<td width="300px">Yaba college of Technology<br><em>Yaba, Lagos</em></td>
+				<td width="300px">Business Administration and Mgt<br><em>OND (National Diploma)</em> </td>
+				<td>2017-2019</td>
+			</tr>
+		</table>
+
+		<p>Secondary Education: </p>
+		<table>
+			<tr>
+				<td>Institution</td>
+				<td>Degree</td>
+				<td>Date of Completion</td>
+			</tr>
+			<tr>
+				<td width="300px">Chris Group of Schools</td>
+				<td width="300px">Secondary school leaving certificate<br><em>(WAEC)</em> </td>
+				<td>2016</td>
+			</tr>
+		</table>
+
+		<p>Primary Education: </p>
+		<table>
+			<tr>
+				<td>Institution</td>
+				<td>Degree</td>
+				<td>Date of Completion</td>
+			</tr>
+			<tr>
+				<td width="300px">Confab Nursery & Primary School</td>
+				<td width="300px">First school leaving certificate<br><em>(FSLC)</em> </td>
+				<td>2009</td>
+			</tr>
+		</table>
+
+		<h3><strong><u>RELEVANT EXPERIENCE</u></strong></h3>
+		<p>Ministry of Energy and Mineral Resources<br>Post: Secretary (Admin & Hr)</p>
+
+		<p>Hotels.ng<br>Post: Writer </p>
+
+		<h3><strong><u>HOBBIES</u></strong></h3>
+		<P>Reading,Singing, Interacting with people </P>
+
+		<h3><strong><u>REFERENCES</u></strong></h3>
+		<P>Mrs Oluwatoyin Oloyede<br>Tel: 08068334604</P>
+		<P>Ajetunmobi Michael<br>Engineer<br>Tel: 08119910316</P>
+</body>
+</html>
